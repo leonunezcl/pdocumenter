@@ -1,0 +1,14 @@
+Support = 139, 103, 627, 511, C
+PrintEngine = 0, 0, 0, 0, C
+PrintCode = 0, 0, 0, 0, C
+Analyser = 0, 0, 0, 0, C
+PrintCommon = 0, 0, 0, 0, C
+frmMain = 139, 103, 627, 511, C, 0, 0, 0, 0, C
+frmPrint = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmViewFile = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPreview = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmFind = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSelect = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsGradient = 0, 0, 0, 0, C
+frmAcerca = 139, 103, 627, 511, C, 0, 0, 0, 0, C
+mShell = 0, 0, 0, 0, C

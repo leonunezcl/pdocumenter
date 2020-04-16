@@ -1,0 +1,156 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=F:\Instaladores\Project Printer
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=
+C:\WINDOWS\SYSTEM32\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM32\pvb_xmenu.dll=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+
+[Package|Paquete de instalación estándar 1|Files Added]
+F:\VBSoftware\Aplicaciones\Project Printer\Accessed.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\Analyse.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\Exit.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\Error.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\Ok.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\Ready.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\Sorry.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\StandBy.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\Startup.wav=
+F:\VBSoftware\Aplicaciones\Project Printer\ThankYou.wav=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+c:\windows\system32\msvbvm60.dll=
+c:\windows\system32\oleaut32.dll=
+c:\windows\system32\olepro32.dll=
+c:\windows\system32\asycfilt.dll=
+c:\windows\system32\stdole2.tlb=
+c:\windows\system32\comcat.dll=
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+F:\VBSoftware\Aplicaciones\Project Printer\pprinter.exe=Yes
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=No
+C:\WINDOWS\SYSTEM32\oleaut32.dll=No
+C:\WINDOWS\SYSTEM32\olepro32.dll=No
+C:\WINDOWS\SYSTEM32\asycfilt.dll=No
+C:\WINDOWS\SYSTEM32\stdole2.tlb=No
+C:\WINDOWS\SYSTEM32\comcat.dll=No
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM32\pvb_xmenu.dll=Yes
+C:\WINDOWS\SYSTEM32\COMCTL32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\TOOLS\VB\CONTROLS\MSOUTL32.OCX=Yes
+C:\WINDOWS\SYSTEM32\mfc40.dll=Yes
+C:\WINDOWS\SYSTEM32\msvcrt40.dll=Yes
+C:\WINDOWS\SYSTEM32\mfc40loc.dll=Yes
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Accessed.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Analyse.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Exit.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Error.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Ok.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Ready.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Sorry.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\StandBy.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\Startup.wav=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\ThankYou.wav=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+F:\VBSoftware\Aplicaciones\Project Printer\pprinter.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\pvb_xmenu.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMCTL32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\TOOLS\VB\CONTROLS\MSOUTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mfc40.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msvcrt40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mfc40loc.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Accessed.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Analyse.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Exit.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Error.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Ok.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Ready.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Sorry.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\StandBy.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\Startup.wav=$(AppPath)
+F:\VBSoftware\Aplicaciones\Project Printer\ThankYou.wav=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+F:\VBSoftware\Aplicaciones\Project Printer\pprinter.exe=No
+F:\VBSoftware\Aplicaciones\Project Printer\Accessed.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\Analyse.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\Exit.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\Error.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\Ok.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\Ready.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\Sorry.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\StandBy.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\Startup.wav=No
+F:\VBSoftware\Aplicaciones\Project Printer\ThankYou.wav=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=Project Printer
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=F:\Instaladores\Project Printer
+ProjectFolder=F:\VBSoftware\Aplicaciones\Project Printer
+ServerSideCab=
+File1=F:\Instaladores\Project Printer\setup.exe
+File2=F:\Instaladores\Project Printer\Setup.Lst
+File3=F:\Instaladores\Project Printer\pprinter.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=VBSoftware
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|VBSoftware]
+Icon1=pprinter.exe
+Title1=Project Printer
+StartIn1=$(AppPath)
+Key1=Icon1

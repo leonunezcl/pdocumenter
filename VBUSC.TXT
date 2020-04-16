@@ -1,0 +1,18 @@
+FILE: VBUSC.EXE Provides Licensing for Discontinued Controls
+Last reviewed: November 6, 1998
+Article ID: Q195353 
+http://support.microsoft.com/support/kb/articles/q195/3/53.asp
+--------------------------------------------------------------------------------
+
+The information in this article applies to: 
+Microsoft Visual Basic Learning, Professional, and Enterprise Editions for Windows, versions 5.0, 6.0 
+
+SUMMARY
+VBUSC.EXE is a file that will install the Design-Time Licenses for ActiveX controls that shipped with earlier versions of Visual Basic, but are no longer supported and have been discontinued with the current version. 
+
+MORE INFORMATION
+The following file is available for download from the Microsoft Software Library: 
+
+vbusc.exe (size: 90112 bytes)
+
+http://support.microsoft.com/download/support/mslfiles/vbusc.exe

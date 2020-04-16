@@ -1,0 +1,13 @@
+Support = 139, 103, 759, 679, C
+PrintEngine = 257, 61, 745, 614, C
+PrintCode = 4, -2, 806, 228, CZ
+Analyser = 197, 103, 685, 511, CZ
+PrintCommon = 11, -15, 809, 222, C
+frmMain = 150, 242, 797, 650, CZ, 0, 0, 0, 0, C
+frmPrint = 180, 152, 757, 560, C, 0, 0, 0, 0, C
+frmViewFile = 197, 103, 685, 511, CZ, 0, 0, 0, 0, C
+frmPreview = 240, 49, 728, 457, CZ, 0, 0, 0, 0, C
+frmFind = 197, 103, 685, 511, CZ, 0, 0, 0, 0, C
+frmSelect = 197, 103, 685, 511, C, 0, 0, 0, 0, C
+clsGradient = 197, 103, 685, 511, C
+frmAcerca = 0, 0, 0, 0, C, 0, 0, 0, 0, C
